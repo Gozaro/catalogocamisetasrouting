@@ -1,0 +1,25 @@
+.navegacion {
+    display: flex;
+   
+    margin: 0 auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    background-color: #000;
+    justify-content: center;
+
+}
+.navegacion a {
+    font-size: 1.3rem;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.navegacion a.activo {
+    color: #ffce00;
+}
+
+nav {
+    margin: 0 auto;
+    text-align: center;
+}
